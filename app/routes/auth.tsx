@@ -3,7 +3,7 @@ import {useEffect} from "react";
 import {useLocation, useNavigate} from "react-router";
 
 export const meta = () => ([
-  { title: 'Resumind | Auth' },
+  { title: 'Rexa | Auth' },
   { name: 'description', content: 'Log into your account' },
 ])
 
